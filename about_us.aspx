@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="bootstrap-3.3.6-dist/css/bootstrap.css" />
 <link rel="stylesheet" href="bootstrap-3.3.6-dist/css/bootstrap-theme.css" />
 <link rel="stylesheet" href="mystyles.css" />
-<title>Untitled Document</title>
+<title>Giới thiệu</title>
 </head>
 
 <body>
